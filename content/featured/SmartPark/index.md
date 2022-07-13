@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Smart Park'
-cover: './smart-park.png'
+cover: './demo.png'
 github: ''
 external: ''
 tech:

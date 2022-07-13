@@ -1,9 +1,9 @@
 ---
 date: '2'
-title: 'Keen Music App'
+title: 'The Green Lounge'
 cover: './demo.png'
-github: 'https://github.com/aumtuhin/react-redux-ts-tailwind-music-app'
-external: 'https://keen-music-app.netlify.app/'
+github: 'https://github.com/aumtuhin/The-Green-Lounge'
+external: 'https://the-green-lounge.netlify.app/'
 tech:
   - React
   - React Hooks
@@ -12,4 +12,7 @@ tech:
   - Netlify
 ---
 
-A music app build with react, redux, typescript and tailwind
+A simple recipe app User can browse different menu by category like Lunch, Dinner so on
+User can add menu to the baseket and can edit in checkout
+User can sign in either by gmail or by email and password
+User can pay through stripe API
