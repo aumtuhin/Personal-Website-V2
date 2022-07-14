@@ -2,8 +2,8 @@
 date: '3'
 title: 'Keen Music App'
 cover: './demo.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+github: 'https://github.com/aumtuhin/react-redux-ts-tailwind-music-app/'
+cta: 'https://keen-music-app.netlify.app/'
 tech:
   - React
   - Redux
